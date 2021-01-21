@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/Garionion/launchpad"
 	"github.com/google/go-cmp/cmp"
-	"github.com/mdlayher/launchpad"
 	"gitlab.com/gomidi/midi"
 	"gitlab.com/gomidi/midi/testdrv"
 	"golang.org/x/sync/errgroup"

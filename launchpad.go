@@ -19,7 +19,7 @@ const (
 	buttonPressed    = 0x7f // Indicates a button is pressed.
 
 	// The substring used to look for Launchpad MIDI devices.
-	name = "Launchpad"
+	name = "Launch"
 )
 
 // A Color is a bitmask which indicates an LED color combination and/or

@@ -1,4 +1,4 @@
-module github.com/mdlayher/launchpad
+module github.com/Garionion/launchpad
 
 go 1.14
 

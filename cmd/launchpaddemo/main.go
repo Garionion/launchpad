@@ -12,7 +12,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mdlayher/launchpad"
+	"github.com/Garionion/launchpad"
 	"gitlab.com/gomidi/rtmididrv"
 	"golang.org/x/sync/errgroup"
 )
